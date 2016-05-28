@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-tkweb-app1",
+  "version": "0.0.0",
+  "description": "NodejsTKWebApp1",
+  "main": "app.js",
+  "author": {
+    "name": "steph",
+    "email": ""
+  }
+}
